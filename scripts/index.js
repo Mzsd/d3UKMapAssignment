@@ -11,7 +11,7 @@ var projection = d3.geo .albers()
                         .scale(5500)
                         .translate([width / 2, height / 2]);
 
-var jsonFeedURI = "http://34.38.72.236/Circles/Towns/100"
+var jsonFeedURI = "http://34.38.72.236/Circles/Towns/10"
 
 var slider = document.getElementById('fader');
 
