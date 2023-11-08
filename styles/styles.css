@@ -1,0 +1,33 @@
+.subunit.SCT { fill: #ff8080; }
+.subunit.WLS { fill: #ff8080; }
+.subunit.NIR { fill: #ff8080; }
+.subunit.ENG { fill: #ff8080; }
+.subunit.IMN { fill: #ff8080; }
+.subunit.IRL { fill: #12c267; }
+
+input[type="range"] {
+    width:300px;
+}
+  
+div {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+svg {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#btn:hover {background: #eee;}
+
+#btn {
+  color: rgb(50, 50, 50);
+  border: none;
+  background-color: inherit; /*rgba(50, 50, 50, 0.7);*/
+  padding: 10px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}

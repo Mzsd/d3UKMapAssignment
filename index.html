@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Hello World</title>
+        <link rel="stylesheet" href="styles/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+        <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script src="//d3js.org/topojson.v1.min.js"></script>
+    </head>
+  <body>
+    <div class="center">
+      <label for="fader">Number of Towns </label>
+    </div>
+    <div class="center">
+      <input type="range" name="numtownsSlider" id="fader" min="1" max="100" value="10" oninput="outputUpdate(value)">
+    </div>
+      <br>
+    <div id="btn" class="center">
+      <button id=btn>Refresh</button>
+    </div>
+
+    <script src="scripts/index.js"></script>
+    <div id="tooltip_div"></div>
+
+  </body>
+</html>

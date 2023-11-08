@@ -1,0 +1,3502 @@
+[
+    {
+        "lng": -1.37307,
+        "Town": "Ackton",
+        "Population": 90702,
+        "County": "West Yorkshire",
+        "lat": 53.68831
+    },
+    {
+        "lng": 1.24454,
+        "Town": "Aldborough",
+        "Population": 167608,
+        "County": "Norfolk",
+        "lat": 52.8636
+    },
+    {
+        "lng": -2.80395,
+        "Town": "Alcaston",
+        "Population": 82952,
+        "County": "Shropshire",
+        "lat": 52.48269
+    },
+    {
+        "lng": -3.17467,
+        "Town": "Acharn",
+        "Population": 74748,
+        "County": "Angus",
+        "lat": 56.87436
+    },
+    {
+        "lng": -0.85165,
+        "Town": "Abington Vale",
+        "Population": 109762,
+        "County": "Northamptonshire",
+        "lat": 52.24609
+    },
+    {
+        "lng": -2.22875,
+        "Town": "Acton",
+        "Population": 96264,
+        "County": "Worcestershire",
+        "lat": 52.3054
+    },
+    {
+        "lng": 1.30949,
+        "Town": "Acol",
+        "Population": 125243,
+        "County": "Kent",
+        "lat": 51.35978
+    },
+    {
+        "lng": -4.04401,
+        "Town": "Aberdyfi",
+        "Population": 150172,
+        "County": "Gwynedd",
+        "lat": 52.54868
+    },
+    {
+        "lng": -3.2169,
+        "Town": "Abbey",
+        "Population": 121520,
+        "County": "Devon",
+        "lat": 50.88764
+    },
+    {
+        "lng": -6.633,
+        "Town": "Acton",
+        "Population": 31825,
+        "County": "Tyrone",
+        "lat": 54.517
+    },
+    {
+        "lng": -3.76576,
+        "Town": "Abercegir",
+        "Population": 110769,
+        "County": "Powys",
+        "lat": 52.59811
+    },
+    {
+        "lng": -2.65628,
+        "Town": "Abbots Leigh",
+        "Population": 74770,
+        "County": "Somerset",
+        "lat": 51.45864
+    },
+    {
+        "lng": -3.10727,
+        "Town": "Ackergill",
+        "Population": 84812,
+        "County": "Highland",
+        "lat": 58.46497
+    },
+    {
+        "lng": -4.55997,
+        "Town": "Abercych",
+        "Population": 54252,
+        "County": "Pembrokeshire",
+        "lat": 52.03506
+    },
+    {
+        "lng": -1.30927,
+        "Town": "Adderbury",
+        "Population": 119961,
+        "County": "Oxfordshire",
+        "lat": 52.0159
+    },
+    {
+        "lng": -7.39122,
+        "Town": "Aisgernis",
+        "Population": 167315,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.19527
+    },
+    {
+        "lng": 0.17406,
+        "Town": "Alderbrook",
+        "Population": 169167,
+        "County": "East Sussex",
+        "lat": 51.04462
+    },
+    {
+        "lng": -6.85805,
+        "Town": "Ãƒ€ird Shleibhe",
+        "Population": 100211,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.80184
+    },
+    {
+        "lng": -2.33351,
+        "Town": "Ackleton",
+        "Population": 150088,
+        "County": "Shropshire",
+        "lat": 52.58384
+    },
+    {
+        "lng": -2.70573,
+        "Town": "Alford",
+        "Population": 87681,
+        "County": "Aberdeenshire",
+        "lat": 57.23723
+    },
+    {
+        "lng": -4.40556,
+        "Town": "Abriachan",
+        "Population": 96422,
+        "County": "Highland",
+        "lat": 57.38691
+    },
+    {
+        "lng": -3.38828,
+        "Town": "Abbeycwmhir",
+        "Population": 129782,
+        "County": "Powys",
+        "lat": 52.33342
+    },
+    {
+        "lng": -2.32334,
+        "Town": "Alder Row",
+        "Population": 90788,
+        "County": "Somerset",
+        "lat": 51.19028
+    },
+    {
+        "lng": 1.57561,
+        "Town": "Aldringham",
+        "Population": 160201,
+        "County": "Suffolk",
+        "lat": 52.1885
+    },
+    {
+        "lng": -3.61599,
+        "Town": "Abbotskerswell",
+        "Population": 140550,
+        "County": "Devon",
+        "lat": 50.50507
+    },
+    {
+        "lng": -2.89065,
+        "Town": "Abcott",
+        "Population": 55437,
+        "County": "Shropshire",
+        "lat": 52.40115
+    },
+    {
+        "lng": -2.37696,
+        "Town": "Abbey St Bathans",
+        "Population": 43266,
+        "County": "Scottish Borders",
+        "lat": 55.85512
+    },
+    {
+        "lng": -4.4635,
+        "Town": "Aberffraw",
+        "Population": 136922,
+        "County": "Isle of Anglesey",
+        "lat": 53.18808
+    },
+    {
+        "lng": -3.09579,
+        "Town": "Aldingham",
+        "Population": 115976,
+        "County": "Cumbria",
+        "lat": 54.13435
+    },
+    {
+        "lng": -1.59606,
+        "Town": "Aldfield",
+        "Population": 47924,
+        "County": "North Yorkshire",
+        "lat": 54.12069
+    },
+    {
+        "lng": -2.80053,
+        "Town": "Aldersey Green",
+        "Population": 32164,
+        "County": "Cheshire",
+        "lat": 53.103
+    },
+    {
+        "lng": -4.47308,
+        "Town": "Adpar",
+        "Population": 84162,
+        "County": "Ceredigion",
+        "lat": 52.04591
+    },
+    {
+        "lng": -5.25567,
+        "Town": "Achadh nan Darach",
+        "Population": 72147,
+        "County": "Highland",
+        "lat": 56.64865
+    },
+    {
+        "lng": -3.03668,
+        "Town": "Ainsdale",
+        "Population": 71218,
+        "County": "Merseyside",
+        "lat": 53.60456
+    },
+    {
+        "lng": -0.91351,
+        "Town": "Alderton",
+        "Population": 146654,
+        "County": "Northamptonshire",
+        "lat": 52.11182
+    },
+    {
+        "lng": -3.71984,
+        "Town": "Abercraf",
+        "Population": 163264,
+        "County": "Powys",
+        "lat": 51.79855
+    },
+    {
+        "lng": -2.53915,
+        "Town": "Abbey Village",
+        "Population": 149639,
+        "County": "Lancashire",
+        "lat": 53.69772
+    },
+    {
+        "lng": -3.32396,
+        "Town": "Abercynon",
+        "Population": 86183,
+        "County": "Rhondda Cynon Taff",
+        "lat": 51.65082
+    },
+    {
+        "lng": -5.54828,
+        "Town": "Achahoish",
+        "Population": 84755,
+        "County": "Argyll and Bute",
+        "lat": 55.93936
+    },
+    {
+        "lng": -1.99413,
+        "Town": "Alderton",
+        "Population": 163951,
+        "County": "Gloucestershire",
+        "lat": 51.99994
+    },
+    {
+        "lng": -2.43861,
+        "Town": "Adeney",
+        "Population": 90571,
+        "County": "Shropshire",
+        "lat": 52.76329
+    },
+    {
+        "lng": 1.55313,
+        "Town": "Acle",
+        "Population": 150091,
+        "County": "Norfolk",
+        "lat": 52.6389
+    },
+    {
+        "lng": -1.11113,
+        "Town": "Acaster Malbis",
+        "Population": 112402,
+        "County": "North Yorkshire",
+        "lat": 53.90237
+    },
+    {
+        "lng": -3.45741,
+        "Town": "Advie",
+        "Population": 136172,
+        "County": "Highland",
+        "lat": 57.39247
+    },
+    {
+        "lng": -6.84015,
+        "Town": "Ãƒ€ird Asaig",
+        "Population": 133591,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.91947
+    },
+    {
+        "lng": -0.52319,
+        "Town": "Alfold",
+        "Population": 126646,
+        "County": "Surrey",
+        "lat": 51.10047
+    },
+    {
+        "lng": -4.73314,
+        "Town": "Aberchalder",
+        "Population": 86304,
+        "County": "Highland",
+        "lat": 57.09263
+    },
+    {
+        "lng": -2.7498,
+        "Town": "Albrighton",
+        "Population": 53845,
+        "County": "Shropshire",
+        "lat": 52.76173
+    },
+    {
+        "lng": -0.41125,
+        "Town": "Aike",
+        "Population": 111222,
+        "County": "East Riding Of Yorkshire",
+        "lat": 53.89515
+    },
+    {
+        "lng": 0.11609,
+        "Town": "Abridge",
+        "Population": 108668,
+        "County": "Essex",
+        "lat": 51.64821
+    },
+    {
+        "lng": -7.38731,
+        "Town": "Ãƒ€ird Ruairidh",
+        "Population": 127094,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.16844
+    },
+    {
+        "lng": -2.23405,
+        "Town": "Alderley Edge",
+        "Population": 81389,
+        "County": "Cheshire",
+        "lat": 53.30322
+    },
+    {
+        "lng": -4.01825,
+        "Town": "Abertrinant",
+        "Population": 54836,
+        "County": "Gwynedd",
+        "lat": 52.63004
+    },
+    {
+        "lng": -4.02769,
+        "Town": "Acharn",
+        "Population": 143079,
+        "County": "Perth and Kinross",
+        "lat": 56.56689
+    },
+    {
+        "lng": -1.48641,
+        "Town": "Ainderby Steeple",
+        "Population": 116812,
+        "County": "North Yorkshire",
+        "lat": 54.32698
+    },
+    {
+        "lng": -6.90591,
+        "Town": "Ãƒ€ird Mhighe",
+        "Population": 51452,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.782
+    },
+    {
+        "lng": -1.92023,
+        "Town": "Aldridge",
+        "Population": 100019,
+        "County": "West Midlands",
+        "lat": 52.60226
+    },
+    {
+        "lng": -3.21865,
+        "Town": "Abernant",
+        "Population": 135341,
+        "County": "Powys",
+        "lat": 52.56904
+    },
+    {
+        "lng": -5.58714,
+        "Town": "Achintraid",
+        "Population": 32231,
+        "County": "Highland",
+        "lat": 57.38573
+    },
+    {
+        "lng": -1.68499,
+        "Town": "Aldbrough St John",
+        "Population": 99723,
+        "County": "North Yorkshire",
+        "lat": 54.49842
+    },
+    {
+        "lng": -2.37303,
+        "Town": "Accrington",
+        "Population": 72617,
+        "County": "Lancashire",
+        "lat": 53.75228
+    },
+    {
+        "lng": -3.29737,
+        "Town": "Afon-wen",
+        "Population": 97993,
+        "County": "Flintshire",
+        "lat": 53.23346
+    },
+    {
+        "lng": -3.18045,
+        "Town": "Aithnen",
+        "Population": 163058,
+        "County": "Powys",
+        "lat": 52.79419
+    },
+    {
+        "lng": 0.12106,
+        "Town": "Aby",
+        "Population": 90235,
+        "County": "Lincolnshire",
+        "lat": 53.28459
+    },
+    {
+        "lng": -1.51309,
+        "Town": "Afton",
+        "Population": 73223,
+        "County": "Isle of Wight",
+        "lat": 50.67714
+    },
+    {
+        "lng": -3.79895,
+        "Town": "Aberavon",
+        "Population": 45446,
+        "County": "Neath Port Talbot",
+        "lat": 51.59954
+    },
+    {
+        "lng": -3.13767,
+        "Town": "Aberbeeg",
+        "Population": 151535,
+        "County": "Blaenau Gwent",
+        "lat": 51.71571
+    },
+    {
+        "lng": -4.91192,
+        "Town": "Achfary",
+        "Population": 152054,
+        "County": "Highland",
+        "lat": 58.31086
+    },
+    {
+        "lng": 0.02582,
+        "Town": "Aldersbrook",
+        "Population": 115394,
+        "County": "Greater London (Redbridge)",
+        "lat": 51.56887
+    },
+    {
+        "lng": -0.50018,
+        "Town": "Addlestone",
+        "Population": 74665,
+        "County": "Surrey",
+        "lat": 51.36996
+    },
+    {
+        "lng": -2.23283,
+        "Town": "Acres Nook",
+        "Population": 27451,
+        "County": "Staffordshire",
+        "lat": 53.0785
+    },
+    {
+        "lng": -4.42065,
+        "Town": "Abernant",
+        "Population": 35747,
+        "County": "Carmarthenshire",
+        "lat": 51.88513
+    },
+    {
+        "lng": -2.0091,
+        "Town": "Aire View",
+        "Population": 60345,
+        "County": "North Yorkshire",
+        "lat": 53.91465
+    },
+    {
+        "lng": -0.68477,
+        "Town": "Aisby",
+        "Population": 158902,
+        "County": "Lincolnshire",
+        "lat": 53.42205
+    },
+    {
+        "lng": -0.45506,
+        "Town": "Aley Green",
+        "Population": 150104,
+        "County": "Bedfordshire",
+        "lat": 51.85494
+    },
+    {
+        "lng": -3.4268,
+        "Town": "Aberaman",
+        "Population": 135543,
+        "County": "Rhondda Cynon Taff",
+        "lat": 51.70357
+    },
+    {
+        "lng": -0.80268,
+        "Town": "Acklam",
+        "Population": 78428,
+        "County": "North Yorkshire",
+        "lat": 54.04351
+    },
+    {
+        "lng": -2.67349,
+        "Town": "Acton Pigott",
+        "Population": 119125,
+        "County": "Shropshire",
+        "lat": 52.61835
+    },
+    {
+        "lng": -6.21596,
+        "Town": "Achnahard",
+        "Population": 156224,
+        "County": "Argyll and Bute",
+        "lat": 56.332
+    },
+    {
+        "lng": -4.26409,
+        "Town": "Aberaeron",
+        "Population": 160568,
+        "County": "Ceredigion",
+        "lat": 52.23895
+    },
+    {
+        "lng": -2.02256,
+        "Town": "Acton",
+        "Population": 105139,
+        "County": "Dorset",
+        "lat": 50.60622
+    },
+    {
+        "lng": -2.97872,
+        "Town": "Acton",
+        "Population": 125289,
+        "County": "Wrexham",
+        "lat": 53.05672
+    },
+    {
+        "lng": 1.6019,
+        "Town": "Aldeburgh",
+        "Population": 50391,
+        "County": "Suffolk",
+        "lat": 52.15172
+    },
+    {
+        "lng": -5.33196,
+        "Town": "Achnacarnin",
+        "Population": 26061,
+        "County": "Highland",
+        "lat": 58.23768
+    },
+    {
+        "lng": -3.13812,
+        "Town": "Abertillery/Abertyleri",
+        "Population": 96940,
+        "County": "Blaenau Gwent",
+        "lat": 51.73369
+    },
+    {
+        "lng": -0.93155,
+        "Town": "Adstock",
+        "Population": 167098,
+        "County": "Buckinghamshire",
+        "lat": 51.96813
+    },
+    {
+        "lng": -4.40024,
+        "Town": "Aber-banc",
+        "Population": 161958,
+        "County": "Ceredigion",
+        "lat": 52.04741
+    },
+    {
+        "lng": -2.54828,
+        "Town": "Alder's End",
+        "Population": 72967,
+        "County": "Herefordshire",
+        "lat": 52.05261
+    },
+    {
+        "lng": 1.34493,
+        "Town": "Alburgh",
+        "Population": 79679,
+        "County": "Norfolk",
+        "lat": 52.42912
+    },
+    {
+        "lng": -1.66531,
+        "Town": "Aldwark",
+        "Population": 121409,
+        "County": "Derbyshire",
+        "lat": 53.11421
+    },
+    {
+        "lng": -1.19435,
+        "Town": "Abbotstone",
+        "Population": 30023,
+        "County": "Hampshire",
+        "lat": 51.10702
+    },
+    {
+        "lng": 1.41653,
+        "Town": "Alderton",
+        "Population": 161816,
+        "County": "Suffolk",
+        "lat": 52.02232
+    },
+    {
+        "lng": -3.77648,
+        "Town": "Airth",
+        "Population": 69855,
+        "County": "Falkirk",
+        "lat": 56.06753
+    },
+    {
+        "lng": -2.78512,
+        "Town": "Aboyne",
+        "Population": 130917,
+        "County": "Aberdeenshire",
+        "lat": 57.07506
+    },
+    {
+        "lng": -1.99413,
+        "Town": "Alderton Fields",
+        "Population": 65445,
+        "County": "Gloucestershire",
+        "lat": 51.99095
+    },
+    {
+        "lng": -6.367,
+        "Town": "Ahoghill",
+        "Population": 74261,
+        "County": "Antrim",
+        "lat": 54.867
+    },
+    {
+        "lng": -2.53979,
+        "Town": "Acton Round",
+        "Population": 136529,
+        "County": "Shropshire",
+        "lat": 52.55611
+    },
+    {
+        "lng": -1.31192,
+        "Town": "Airedale",
+        "Population": 146292,
+        "County": "West Yorkshire",
+        "lat": 53.72393
+    },
+    {
+        "lng": -4.50913,
+        "Town": "Aberarder",
+        "Population": 126459,
+        "County": "Highland",
+        "lat": 56.95353
+    },
+    {
+        "lng": -2.62855,
+        "Town": "Adlington Park",
+        "Population": 93207,
+        "County": "Lancashire",
+        "lat": 53.59842
+    },
+    {
+        "lng": -2.1282,
+        "Town": "Abbey Hulton",
+        "Population": 159139,
+        "County": "Staffordshire",
+        "lat": 53.03371
+    },
+    {
+        "lng": -3.16612,
+        "Town": "Aley",
+        "Population": 71383,
+        "County": "Somerset",
+        "lat": 51.13096
+    },
+    {
+        "lng": 0.76322,
+        "Town": "Acton",
+        "Population": 131887,
+        "County": "Suffolk",
+        "lat": 52.06645
+    },
+    {
+        "lng": -3.67522,
+        "Town": "Abergwesyn",
+        "Population": 69896,
+        "County": "Powys",
+        "lat": 52.15886
+    },
+    {
+        "lng": -5.00704,
+        "Town": "Achlyness",
+        "Population": 73991,
+        "County": "Highland",
+        "lat": 58.42549
+    },
+    {
+        "lng": -1.57903,
+        "Town": "Aiskew",
+        "Population": 38671,
+        "County": "North Yorkshire",
+        "lat": 54.29139
+    },
+    {
+        "lng": -2.81547,
+        "Town": "Aldersey Park",
+        "Population": 73483,
+        "County": "Cheshire",
+        "lat": 53.1029
+    },
+    {
+        "lng": -6.14696,
+        "Town": "Achnaha",
+        "Population": 123877,
+        "County": "Highland",
+        "lat": 56.73902
+    },
+    {
+        "lng": -5.57252,
+        "Town": "Achnamara",
+        "Population": 89715,
+        "County": "Argyll and Bute",
+        "lat": 56.02857
+    },
+    {
+        "lng": -1.70179,
+        "Town": "Ailstone",
+        "Population": 79595,
+        "County": "Warwickshire",
+        "lat": 52.15241
+    },
+    {
+        "lng": -3.26466,
+        "Town": "Abertridwr",
+        "Population": 126432,
+        "County": "Caerphilly",
+        "lat": 51.59752
+    },
+    {
+        "lng": -1.28526,
+        "Town": "Adwick upon Dearne",
+        "Population": 159232,
+        "County": "South Yorkshire",
+        "lat": 53.50805
+    },
+    {
+        "lng": -4.29798,
+        "Town": "Abbots Bickington",
+        "Population": 89441,
+        "County": "Devon",
+        "lat": 50.89833
+    },
+    {
+        "lng": -3.627,
+        "Town": "Aish",
+        "Population": 141915,
+        "County": "Devon",
+        "lat": 50.41498
+    },
+    {
+        "lng": -7.39759,
+        "Town": "Aird",
+        "Population": 94525,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.46498
+    },
+    {
+        "lng": -5.0017,
+        "Town": "Achnacarry",
+        "Population": 67980,
+        "County": "Highland",
+        "lat": 56.94267
+    },
+    {
+        "lng": -2.19738,
+        "Town": "Abbeydale",
+        "Population": 24974,
+        "County": "Gloucestershire",
+        "lat": 51.84693
+    },
+    {
+        "lng": 0.91891,
+        "Town": "Aldington Frith",
+        "Population": 93745,
+        "County": "Kent",
+        "lat": 51.09134
+    },
+    {
+        "lng": -2.1281,
+        "Town": "Adderley Green",
+        "Population": 164039,
+        "County": "Staffordshire",
+        "lat": 52.99775
+    },
+    {
+        "lng": -4.53678,
+        "Town": "Achterneed",
+        "Population": 129040,
+        "County": "Highland",
+        "lat": 57.6
+    },
+    {
+        "lng": -0.50863,
+        "Town": "Alfold Crossways",
+        "Population": 145754,
+        "County": "Surrey",
+        "lat": 51.10928
+    },
+    {
+        "lng": -1.47928,
+        "Town": "Agbrigg",
+        "Population": 141425,
+        "County": "West Yorkshire",
+        "lat": 53.67084
+    },
+    {
+        "lng": -3.96112,
+        "Town": "Abermagwr",
+        "Population": 27831,
+        "County": "Ceredigion",
+        "lat": 52.34328
+    },
+    {
+        "lng": 1.18605,
+        "Town": "Adisham",
+        "Population": 98662,
+        "County": "Kent",
+        "lat": 51.23727
+    },
+    {
+        "lng": -2.80282,
+        "Town": "Aiketgate",
+        "Population": 92856,
+        "County": "Cumbria",
+        "lat": 54.8107
+    },
+    {
+        "lng": -3.93374,
+        "Town": "Aberffrwd",
+        "Population": 25860,
+        "County": "Ceredigion",
+        "lat": 52.38869
+    },
+    {
+        "lng": -3.5947,
+        "Town": "Aberkenfig",
+        "Population": 78690,
+        "County": "Bridgend",
+        "lat": 51.53955
+    },
+    {
+        "lng": -7.41884,
+        "Town": "Ãƒ€ird a' Mhachair",
+        "Population": 25716,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.38307
+    },
+    {
+        "lng": -7.26867,
+        "Town": "Ãƒ€ird nan StrÃƒÂ¹ban",
+        "Population": 125814,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.49744
+    },
+    {
+        "lng": -1.58346,
+        "Town": "Adel",
+        "Population": 49489,
+        "County": "West Yorkshire",
+        "lat": 53.85101
+    },
+    {
+        "lng": -2.64791,
+        "Town": "Adam's Green",
+        "Population": 158456,
+        "County": "Dorset",
+        "lat": 50.8652
+    },
+    {
+        "lng": -1.37606,
+        "Town": "Aislaby",
+        "Population": 162749,
+        "County": "County Durham",
+        "lat": 54.5062
+    },
+    {
+        "lng": -4.31395,
+        "Town": "Afon Wen",
+        "Population": 137538,
+        "County": "Gwynedd",
+        "lat": 52.91236
+    },
+    {
+        "lng": -3.5958,
+        "Town": "Ae",
+        "Population": 123520,
+        "County": "Dumfries and Galloway",
+        "lat": 55.18932
+    },
+    {
+        "lng": -4.45189,
+        "Town": "Achnairn",
+        "Population": 86930,
+        "County": "Highland",
+        "lat": 58.07791
+    },
+    {
+        "lng": -1.37798,
+        "Town": "Aith",
+        "Population": 81195,
+        "County": "Shetland Islands",
+        "lat": 60.28222
+    },
+    {
+        "lng": -2.94165,
+        "Town": "Alberbury",
+        "Population": 100106,
+        "County": "Shropshire",
+        "lat": 52.7244
+    },
+    {
+        "lng": -2.59706,
+        "Town": "Abram",
+        "Population": 112596,
+        "County": "Greater Manchester",
+        "lat": 53.50869
+    },
+    {
+        "lng": -0.63503,
+        "Town": "Aaron's Hill",
+        "Population": 82106,
+        "County": "Surrey",
+        "lat": 51.18276
+    },
+    {
+        "lng": -1.33803,
+        "Town": "Aldercar",
+        "Population": 136648,
+        "County": "Derbyshire",
+        "lat": 53.02295
+    },
+    {
+        "lng": -6.652,
+        "Town": "Aghadowey",
+        "Population": 71689,
+        "County": "Londonderry",
+        "lat": 55.029
+    },
+    {
+        "lng": -2.37074,
+        "Town": "Alder Forest",
+        "Population": 141524,
+        "County": "Greater Manchester",
+        "lat": 53.49163
+    },
+    {
+        "lng": 0.15014,
+        "Town": "Ailby",
+        "Population": 120744,
+        "County": "Lincolnshire",
+        "lat": 53.26609
+    },
+    {
+        "lng": -1.73752,
+        "Town": "Alderbury",
+        "Population": 67587,
+        "County": "Wiltshire",
+        "lat": 51.03756
+    },
+    {
+        "lng": -2.37184,
+        "Town": "Affetside",
+        "Population": 32399,
+        "County": "Greater Manchester",
+        "lat": 53.61747
+    },
+    {
+        "lng": -3.71643,
+        "Town": "Abergarwed",
+        "Population": 166219,
+        "County": "Neath Port Talbot",
+        "lat": 51.70868
+    },
+    {
+        "lng": -3.46387,
+        "Town": "Aberyscir",
+        "Population": 25804,
+        "County": "Powys",
+        "lat": 51.95488
+    },
+    {
+        "lng": -0.91379,
+        "Town": "Ainthorpe",
+        "Population": 48460,
+        "County": "North Yorkshire",
+        "lat": 54.46699
+    },
+    {
+        "lng": -3.14186,
+        "Town": "Ale Oak",
+        "Population": 154321,
+        "County": "Shropshire",
+        "lat": 52.45294
+    },
+    {
+        "lng": -2.35035,
+        "Town": "Adbaston",
+        "Population": 98527,
+        "County": "Staffordshire",
+        "lat": 52.84449
+    },
+    {
+        "lng": -4.67969,
+        "Town": "Albro Castle",
+        "Population": 154772,
+        "County": "Ceredigion",
+        "lat": 52.08635
+    },
+    {
+        "lng": -2.75872,
+        "Town": "Addinston",
+        "Population": 105516,
+        "County": "Scottish Borders",
+        "lat": 55.77249
+    },
+    {
+        "lng": -0.56128,
+        "Town": "Abbotswood",
+        "Population": 48511,
+        "County": "Surrey",
+        "lat": 51.25382
+    },
+    {
+        "lng": -0.49929,
+        "Town": "Abbey Mead",
+        "Population": 162049,
+        "County": "Surrey",
+        "lat": 51.39692
+    },
+    {
+        "lng": -1.34054,
+        "Town": "Aberford",
+        "Population": 50397,
+        "County": "West Yorkshire",
+        "lat": 53.83195
+    },
+    {
+        "lng": -2.62841,
+        "Town": "Aberchirder",
+        "Population": 141298,
+        "County": "Aberdeenshire",
+        "lat": 57.56102
+    },
+    {
+        "lng": -0.91743,
+        "Town": "Addington",
+        "Population": 69226,
+        "County": "Buckinghamshire",
+        "lat": 51.95001
+    },
+    {
+        "lng": -0.20114,
+        "Town": "Albourne",
+        "Population": 143636,
+        "County": "West Sussex",
+        "lat": 50.93408
+    },
+    {
+        "lng": -2.81839,
+        "Town": "Aldcliffe",
+        "Population": 102860,
+        "County": "Lancashire",
+        "lat": 54.03769
+    },
+    {
+        "lng": -7.01854,
+        "Town": "Ãƒ€ird Uig",
+        "Population": 151174,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.22742
+    },
+    {
+        "lng": -4.18168,
+        "Town": "Aber-GiÃƒÂ¢r",
+        "Population": 143165,
+        "County": "Carmarthenshire",
+        "lat": 52.05167
+    },
+    {
+        "lng": -0.20928,
+        "Town": "Abbotsley",
+        "Population": 142695,
+        "County": "Cambridgeshire",
+        "lat": 52.19314
+    },
+    {
+        "lng": -4.46347,
+        "Town": "Achuvoldrach",
+        "Population": 59904,
+        "County": "Highland",
+        "lat": 58.491
+    },
+    {
+        "lng": -1.25649,
+        "Town": "Abingdon-on-Thames",
+        "Population": 102827,
+        "County": "Oxfordshire",
+        "lat": 51.68291
+    },
+    {
+        "lng": -3.33973,
+        "Town": "Aberfan",
+        "Population": 28994,
+        "County": "Merthyr Tydfil",
+        "lat": 51.6956
+    },
+    {
+        "lng": -4.27727,
+        "Town": "Achtoty",
+        "Population": 57956,
+        "County": "Highland",
+        "lat": 58.53038
+    },
+    {
+        "lng": -4.08185,
+        "Town": "Aberystwyth",
+        "Population": 108945,
+        "County": "Ceredigion",
+        "lat": 52.41314
+    },
+    {
+        "lng": -0.20114,
+        "Town": "Albourne Green",
+        "Population": 37085,
+        "County": "West Sussex",
+        "lat": 50.93408
+    },
+    {
+        "lng": -3.03947,
+        "Town": "Abermorddu",
+        "Population": 149924,
+        "County": "Flintshire",
+        "lat": 53.10115
+    },
+    {
+        "lng": -3.47184,
+        "Town": "Airntully",
+        "Population": 38846,
+        "County": "Perth and Kinross",
+        "lat": 56.50283
+    },
+    {
+        "lng": -2.27481,
+        "Town": "Albrighton",
+        "Population": 92688,
+        "County": "Shropshire",
+        "lat": 52.63793
+    },
+    {
+        "lng": -0.72208,
+        "Town": "Adlingfleet",
+        "Population": 86003,
+        "County": "East Riding Of Yorkshire",
+        "lat": 53.68314
+    },
+    {
+        "lng": -1.33148,
+        "Town": "Aldwarke",
+        "Population": 79620,
+        "County": "South Yorkshire",
+        "lat": 53.4454
+    },
+    {
+        "lng": -1.82357,
+        "Town": "Alderholt",
+        "Population": 116118,
+        "County": "Dorset",
+        "lat": 50.91183
+    },
+    {
+        "lng": -3.29417,
+        "Town": "Aberdour",
+        "Population": 107274,
+        "County": "Fife",
+        "lat": 56.05556
+    },
+    {
+        "lng": -4.70886,
+        "Town": "Aberdaron",
+        "Population": 141580,
+        "County": "Gwynedd",
+        "lat": 52.80509
+    },
+    {
+        "lng": -3.46835,
+        "Town": "Abercorn",
+        "Population": 49216,
+        "County": "West Lothian",
+        "lat": 55.99071
+    },
+    {
+        "lng": -2.81857,
+        "Town": "Abraham Heights",
+        "Population": 113891,
+        "County": "Lancashire",
+        "lat": 54.04668
+    },
+    {
+        "lng": -1.2517,
+        "Town": "Acklam",
+        "Population": 69476,
+        "County": "North Yorkshire",
+        "lat": 54.55043
+    },
+    {
+        "lng": 0.11963,
+        "Town": "Aldreth",
+        "Population": 146029,
+        "County": "Cambridgeshire",
+        "lat": 52.34055
+    },
+    {
+        "lng": -7.41312,
+        "Town": "Ãƒ€ird MhÃƒÂ²r",
+        "Population": 80698,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.00533
+    },
+    {
+        "lng": -0.86629,
+        "Town": "Abington",
+        "Population": 82744,
+        "County": "Northamptonshire",
+        "lat": 52.24623
+    },
+    {
+        "lng": -5.12332,
+        "Town": "Abercastle",
+        "Population": 76969,
+        "County": "Pembrokeshire",
+        "lat": 51.9585
+    },
+    {
+        "lng": -0.1167,
+        "Town": "Aldwych",
+        "Population": 61980,
+        "County": "Greater London (City of Westminster)",
+        "lat": 51.5132
+    },
+    {
+        "lng": -2.69124,
+        "Town": "Acton Reynald",
+        "Population": 89448,
+        "County": "Shropshire",
+        "lat": 52.80703
+    },
+    {
+        "lng": -1.13165,
+        "Town": "Adstone",
+        "Population": 31003,
+        "County": "Northamptonshire",
+        "lat": 52.15858
+    },
+    {
+        "lng": -3.4316,
+        "Town": "Abertridwr",
+        "Population": 123207,
+        "County": "Powys",
+        "lat": 52.76445
+    },
+    {
+        "lng": -2.12559,
+        "Town": "Aberdeen",
+        "Population": 118524,
+        "County": "Aberdeen City",
+        "lat": 57.14932
+    },
+    {
+        "lng": 0.7492,
+        "Town": "Acton Place",
+        "Population": 136199,
+        "County": "Suffolk",
+        "lat": 52.07577
+    },
+    {
+        "lng": -2.90716,
+        "Town": "Abbot's Meads",
+        "Population": 168893,
+        "County": "Cheshire",
+        "lat": 53.20112
+    },
+    {
+        "lng": -1.43922,
+        "Town": "Aldermoor",
+        "Population": 165914,
+        "County": "Hampshire",
+        "lat": 50.9376
+    },
+    {
+        "lng": -4.50242,
+        "Town": "Abersoch",
+        "Population": 166497,
+        "County": "Gwynedd",
+        "lat": 52.82761
+    },
+    {
+        "lng": -2.68812,
+        "Town": "Acton Burnell",
+        "Population": 46198,
+        "County": "Shropshire",
+        "lat": 52.60928
+    },
+    {
+        "lng": -5.3457,
+        "Town": "Achiltibuie",
+        "Population": 67679,
+        "County": "Highland",
+        "lat": 58.0216
+    },
+    {
+        "lng": -1.90641,
+        "Town": "Abbot's Salford",
+        "Population": 85722,
+        "County": "Warwickshire",
+        "lat": 52.15274
+    },
+    {
+        "lng": -1.84618,
+        "Town": "Aldershawe",
+        "Population": 163898,
+        "County": "Staffordshire",
+        "lat": 52.66512
+    },
+    {
+        "lng": -0.43358,
+        "Town": "Abinger Hammer",
+        "Population": 50833,
+        "County": "Surrey",
+        "lat": 51.21621
+    },
+    {
+        "lng": -4.51082,
+        "Town": "Achnahanat",
+        "Population": 123457,
+        "County": "Highland",
+        "lat": 57.95097
+    },
+    {
+        "lng": -2.80428,
+        "Town": "Acton Scott",
+        "Population": 158985,
+        "County": "Shropshire",
+        "lat": 52.50066
+    },
+    {
+        "lng": -1.87532,
+        "Town": "Abbots Bromley",
+        "Population": 99841,
+        "County": "Staffordshire",
+        "lat": 52.81797
+    },
+    {
+        "lng": -3.39679,
+        "Town": "Adfa",
+        "Population": 94502,
+        "County": "Powys",
+        "lat": 52.60304
+    },
+    {
+        "lng": -0.76208,
+        "Town": "Aldershot",
+        "Population": 52745,
+        "County": "Hampshire",
+        "lat": 51.24712
+    },
+    {
+        "lng": -1.20164,
+        "Town": "Aldworth",
+        "Population": 156280,
+        "County": "Berkshire",
+        "lat": 51.51171
+    },
+    {
+        "lng": -3.25419,
+        "Town": "Abertysswg",
+        "Population": 102941,
+        "County": "Caerphilly",
+        "lat": 51.7415
+    },
+    {
+        "lng": -3.05199,
+        "Town": "Afon Eitha",
+        "Population": 137003,
+        "County": "Wrexham",
+        "lat": 53.00216
+    },
+    {
+        "lng": -0.47682,
+        "Town": "Albury Heath",
+        "Population": 134517,
+        "County": "Surrey",
+        "lat": 51.20779
+    },
+    {
+        "lng": -1.83222,
+        "Town": "Acock's Green",
+        "Population": 165622,
+        "County": "West Midlands",
+        "lat": 52.44934
+    },
+    {
+        "lng": -3.70393,
+        "Town": "Achnahannet",
+        "Population": 167533,
+        "County": "Highland",
+        "lat": 57.32648
+    },
+    {
+        "lng": -1.53633,
+        "Town": "Abbotts Ann",
+        "Population": 69216,
+        "County": "Hampshire",
+        "lat": 51.18981
+    },
+    {
+        "lng": -3.68205,
+        "Town": "Aber-Cywarch",
+        "Population": 150825,
+        "County": "Gwynedd",
+        "lat": 52.7252
+    },
+    {
+        "lng": -5.12175,
+        "Town": "Ach'an Tobhair",
+        "Population": 126925,
+        "County": "Highland",
+        "lat": 56.8049
+    },
+    {
+        "lng": -2.28184,
+        "Town": "Alcombe",
+        "Population": 168619,
+        "County": "Wiltshire",
+        "lat": 51.42417
+    },
+    {
+        "lng": -1.87097,
+        "Town": "Agglethorpe",
+        "Population": 147340,
+        "County": "North Yorkshire",
+        "lat": 54.27408
+    },
+    {
+        "lng": -1.34598,
+        "Town": "Abdy",
+        "Population": 165671,
+        "County": "South Yorkshire",
+        "lat": 53.48143
+    },
+    {
+        "lng": -3.69543,
+        "Town": "Achreamie",
+        "Population": 51722,
+        "County": "Highland",
+        "lat": 58.57531
+    },
+    {
+        "lng": -0.26109,
+        "Town": "Alconbury",
+        "Population": 123942,
+        "County": "Cambridgeshire",
+        "lat": 52.36475
+    },
+    {
+        "lng": 1.14517,
+        "Town": "Alderford",
+        "Population": 38478,
+        "County": "Norfolk",
+        "lat": 52.72239
+    },
+    {
+        "lng": -2.78352,
+        "Town": "Abercrombie",
+        "Population": 119262,
+        "County": "Fife",
+        "lat": 56.2126
+    },
+    {
+        "lng": -5.20922,
+        "Town": "Abereiddy",
+        "Population": 89674,
+        "County": "Pembrokeshire",
+        "lat": 51.9382
+    },
+    {
+        "lng": -4.45009,
+        "Town": "Achininver",
+        "Population": 99090,
+        "County": "Highland",
+        "lat": 58.54517
+    },
+    {
+        "lng": -0.90279,
+        "Town": "Airmyn",
+        "Population": 157825,
+        "County": "North Yorkshire",
+        "lat": 53.72088
+    },
+    {
+        "lng": -1.34348,
+        "Town": "Ackworth Moor Top",
+        "Population": 52309,
+        "County": "West Yorkshire",
+        "lat": 53.64321
+    },
+    {
+        "lng": -3.11849,
+        "Town": "Airlie",
+        "Population": 90885,
+        "County": "Angus",
+        "lat": 56.64129
+    },
+    {
+        "lng": -1.4791,
+        "Town": "Alderman's Green",
+        "Population": 89021,
+        "County": "West Midlands",
+        "lat": 52.44831
+    },
+    {
+        "lng": -1.1271,
+        "Town": "Acaster Selby",
+        "Population": 165243,
+        "County": "North Yorkshire",
+        "lat": 53.86654
+    },
+    {
+        "lng": -1.52859,
+        "Town": "Abbeydale Park",
+        "Population": 112506,
+        "County": "South Yorkshire",
+        "lat": 53.32049
+    },
+    {
+        "lng": -3.58391,
+        "Town": "Abergele",
+        "Population": 150552,
+        "County": "Conwy",
+        "lat": 53.28394
+    },
+    {
+        "lng": -2.23931,
+        "Town": "Alderton",
+        "Population": 96918,
+        "County": "Wiltshire",
+        "lat": 51.54115
+    },
+    {
+        "lng": -0.68762,
+        "Town": "Aldingbourne",
+        "Population": 26495,
+        "County": "West Sussex",
+        "lat": 50.84164
+    },
+    {
+        "lng": -5.56884,
+        "Town": "Achgarve",
+        "Population": 132856,
+        "County": "Highland",
+        "lat": 57.88069
+    },
+    {
+        "lng": -2.87471,
+        "Town": "Adforton",
+        "Population": 59978,
+        "County": "Herefordshire",
+        "lat": 52.33834
+    },
+    {
+        "lng": -4.06929,
+        "Town": "Achavandra Muir",
+        "Population": 68758,
+        "County": "Highland",
+        "lat": 57.914
+    },
+    {
+        "lng": -6.28318,
+        "Town": "Aiginis",
+        "Population": 81908,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.20929
+    },
+    {
+        "lng": -3.06552,
+        "Town": "Abersychan",
+        "Population": 108964,
+        "County": "Torfaen",
+        "lat": 51.72538
+    },
+    {
+        "lng": 0.98234,
+        "Town": "Aldham",
+        "Population": 125455,
+        "County": "Suffolk",
+        "lat": 52.0701
+    },
+    {
+        "lng": -6.20544,
+        "Town": "Achleck",
+        "Population": 129509,
+        "County": "Argyll and Bute",
+        "lat": 56.53021
+    },
+    {
+        "lng": -3.0669,
+        "Town": "Ainsdale-on-Sea",
+        "Population": 52742,
+        "County": "Merseyside",
+        "lat": 53.6043
+    },
+    {
+        "lng": -0.92601,
+        "Town": "Ab Kettleby",
+        "Population": 89980,
+        "County": "Leicestershire",
+        "lat": 52.80419
+    },
+    {
+        "lng": -4.98181,
+        "Town": "Albert Town",
+        "Population": 154054,
+        "County": "Pembrokeshire",
+        "lat": 51.80029
+    },
+    {
+        "lng": -0.42874,
+        "Town": "Abingworth",
+        "Population": 104341,
+        "County": "West Sussex",
+        "lat": 50.93737
+    },
+    {
+        "lng": -1.66738,
+        "Town": "Alder Moor",
+        "Population": 103031,
+        "County": "Staffordshire",
+        "lat": 52.84454
+    },
+    {
+        "lng": -5.42362,
+        "Town": "Achintee",
+        "Population": 135307,
+        "County": "Highland",
+        "lat": 57.41726
+    },
+    {
+        "lng": -2.87575,
+        "Town": "Aldford",
+        "Population": 42852,
+        "County": "Cheshire",
+        "lat": 53.12944
+    },
+    {
+        "lng": -4.57464,
+        "Town": "Alexandria",
+        "Population": 45755,
+        "County": "West Dunbartonshire",
+        "lat": 55.99053
+    },
+    {
+        "lng": -6.99897,
+        "Town": "Abhainn Suidhe",
+        "Population": 62188,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.96729
+    },
+    {
+        "lng": -1.89114,
+        "Town": "Alcester Lane's End",
+        "Population": 126751,
+        "County": "West Midlands",
+        "lat": 52.42244
+    },
+    {
+        "lng": 1.1299,
+        "Town": "Akenham",
+        "Population": 45591,
+        "County": "Suffolk",
+        "lat": 52.09325
+    },
+    {
+        "lng": -0.81179,
+        "Town": "Aislaby",
+        "Population": 75030,
+        "County": "North Yorkshire",
+        "lat": 54.25931
+    },
+    {
+        "lng": -7.33604,
+        "Town": "Ãƒ€ird MhÃƒÂ²r",
+        "Population": 151122,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.38661
+    },
+    {
+        "lng": -3.86771,
+        "Town": "Aberfeldy",
+        "Population": 163239,
+        "County": "Perth and Kinross",
+        "lat": 56.62331
+    },
+    {
+        "lng": -1.64509,
+        "Town": "Adwalton",
+        "Population": 28328,
+        "County": "West Yorkshire",
+        "lat": 53.75234
+    },
+    {
+        "lng": -3.97506,
+        "Town": "Airdrie",
+        "Population": 133884,
+        "County": "North Lanarkshire",
+        "lat": 55.8668
+    },
+    {
+        "lng": -4.23528,
+        "Town": "Aberarth",
+        "Population": 142157,
+        "County": "Ceredigion",
+        "lat": 52.24849
+    },
+    {
+        "lng": 1.06894,
+        "Town": "Aingers Green",
+        "Population": 52769,
+        "County": "Essex",
+        "lat": 51.84303
+    },
+    {
+        "lng": -6.67942,
+        "Town": "Ãƒ€ird Adhanais",
+        "Population": 63074,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.85354
+    },
+    {
+        "lng": -1.15946,
+        "Town": "Adgestone",
+        "Population": 129741,
+        "County": "Isle of Wight",
+        "lat": 50.66614
+    },
+    {
+        "lng": -4.35048,
+        "Town": "Aberdesach",
+        "Population": 70529,
+        "County": "Gwynedd",
+        "lat": 53.03752
+    },
+    {
+        "lng": -3.813,
+        "Town": "Aberllefenni",
+        "Population": 53731,
+        "County": "Gwynedd",
+        "lat": 52.66932
+    },
+    {
+        "lng": -0.0663,
+        "Town": "Addiscombe",
+        "Population": 95954,
+        "County": "Greater London (Croydon)",
+        "lat": 51.381
+    },
+    {
+        "lng": -2.89663,
+        "Town": "Abbey Dore",
+        "Population": 95524,
+        "County": "Herefordshire",
+        "lat": 51.96955
+    },
+    {
+        "lng": -3.65886,
+        "Town": "Aberuthven",
+        "Population": 102719,
+        "County": "Perth and Kinross",
+        "lat": 56.32077
+    },
+    {
+        "lng": -3.36948,
+        "Town": "Abercanaid",
+        "Population": 105250,
+        "County": "Merthyr Tydfil",
+        "lat": 51.72223
+    },
+    {
+        "lng": -1.64711,
+        "Town": "Acklington",
+        "Population": 63914,
+        "County": "Northumberland",
+        "lat": 55.30708
+    },
+    {
+        "lng": -6.17857,
+        "Town": "Achosnich",
+        "Population": 22340,
+        "County": "Highland",
+        "lat": 56.72897
+    },
+    {
+        "lng": 0.28172,
+        "Town": "Abbess Roding",
+        "Population": 54410,
+        "County": "Essex",
+        "lat": 51.78
+    },
+    {
+        "lng": -2.0729,
+        "Town": "Akeld",
+        "Population": 73707,
+        "County": "Northumberland",
+        "lat": 55.55916
+    },
+    {
+        "lng": -2.42608,
+        "Town": "Abson",
+        "Population": 71496,
+        "County": "Gloucestershire",
+        "lat": 51.46869
+    },
+    {
+        "lng": -4.37748,
+        "Town": "Aberfoyle",
+        "Population": 110985,
+        "County": "Stirling",
+        "lat": 56.17425
+    },
+    {
+        "lng": 0.01738,
+        "Town": "Aimes Green",
+        "Population": 138335,
+        "County": "Essex",
+        "lat": 51.70391
+    },
+    {
+        "lng": -6.51277,
+        "Town": "A' Chill",
+        "Population": 130070,
+        "County": "Highland",
+        "lat": 57.05909
+    },
+    {
+        "lng": -6.15054,
+        "Town": "Aird",
+        "Population": 126701,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.24065
+    },
+    {
+        "lng": -4.27457,
+        "Town": "Abergwili",
+        "Population": 125651,
+        "County": "Carmarthenshire",
+        "lat": 51.87006
+    },
+    {
+        "lng": -2.54629,
+        "Town": "Acton",
+        "Population": 59788,
+        "County": "Cheshire",
+        "lat": 53.07747
+    },
+    {
+        "lng": -3.31975,
+        "Town": "Abernethy",
+        "Population": 110202,
+        "County": "Perth and Kinross",
+        "lat": 56.33383
+    },
+    {
+        "lng": -1.88723,
+        "Town": "Addingham",
+        "Population": 22467,
+        "County": "West Yorkshire",
+        "lat": 53.94156
+    },
+    {
+        "lng": 0.17965,
+        "Town": "Alford",
+        "Population": 20739,
+        "County": "Lincolnshire",
+        "lat": 53.25656
+    },
+    {
+        "lng": -2.62713,
+        "Town": "Abdon",
+        "Population": 65077,
+        "County": "Shropshire",
+        "lat": 52.47477
+    },
+    {
+        "lng": -5.95504,
+        "Town": "Acarsaid",
+        "Population": 47779,
+        "County": "Highland",
+        "lat": 56.78124
+    },
+    {
+        "lng": -1.97949,
+        "Town": "Ab Lench",
+        "Population": 137791,
+        "County": "Worcestershire",
+        "lat": 52.16177
+    },
+    {
+        "lng": -3.3323,
+        "Town": "Aldoth",
+        "Population": 149173,
+        "County": "Cumbria",
+        "lat": 54.82402
+    },
+    {
+        "lng": -1.29101,
+        "Town": "Aldwark",
+        "Population": 85690,
+        "County": "North Yorkshire",
+        "lat": 54.06535
+    },
+    {
+        "lng": -1.54139,
+        "Town": "Albany",
+        "Population": 56974,
+        "County": "Tyne and Wear",
+        "lat": 54.91134
+    },
+    {
+        "lng": -3.83871,
+        "Town": "Aish",
+        "Population": 70003,
+        "County": "Devon",
+        "lat": 50.42981
+    },
+    {
+        "lng": -3.52784,
+        "Town": "Adambrae",
+        "Population": 148119,
+        "County": "West Lothian",
+        "lat": 55.87317
+    },
+    {
+        "lng": -7.36916,
+        "Town": "Ãƒ€ird na Monadh",
+        "Population": 58440,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.3852
+    },
+    {
+        "lng": -4.45802,
+        "Town": "Aber Arad",
+        "Population": 29563,
+        "County": "Carmarthenshire",
+        "lat": 52.03723
+    },
+    {
+        "lng": -0.44396,
+        "Town": "Adeyfield",
+        "Population": 147233,
+        "County": "Hertfordshire",
+        "lat": 51.75588
+    },
+    {
+        "lng": -2.28246,
+        "Town": "Acton Turville",
+        "Population": 135505,
+        "County": "Gloucestershire",
+        "lat": 51.52307
+    },
+    {
+        "lng": -6.67259,
+        "Town": "Airidh a Bhruaich",
+        "Population": 39378,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.06068
+    },
+    {
+        "lng": -0.49083,
+        "Town": "Albury",
+        "Population": 98576,
+        "County": "Surrey",
+        "lat": 51.21696
+    },
+    {
+        "lng": -6.294,
+        "Town": "Aghagallon",
+        "Population": 107584,
+        "County": "Antrim",
+        "lat": 54.509
+    },
+    {
+        "lng": -2.12906,
+        "Town": "Adlington",
+        "Population": 88231,
+        "County": "Cheshire",
+        "lat": 53.32136
+    },
+    {
+        "lng": -2.34078,
+        "Town": "Alderley",
+        "Population": 116733,
+        "County": "Gloucestershire",
+        "lat": 51.61283
+    },
+    {
+        "lng": -2.59858,
+        "Town": "Adlington",
+        "Population": 158179,
+        "County": "Lancashire",
+        "lat": 53.61655
+    },
+    {
+        "lng": -3.23265,
+        "Town": "Abermule/Aber-miwl",
+        "Population": 69030,
+        "County": "Powys",
+        "lat": 52.54193
+    },
+    {
+        "lng": -1.51337,
+        "Town": "Abbeydale",
+        "Population": 60488,
+        "County": "South Yorkshire",
+        "lat": 53.33841
+    },
+    {
+        "lng": -3.45108,
+        "Town": "Achalone",
+        "Population": 165661,
+        "County": "Highland",
+        "lat": 58.48848
+    },
+    {
+        "lng": -3.77324,
+        "Town": "Aberdulais",
+        "Population": 66895,
+        "County": "Neath Port Talbot",
+        "lat": 51.68086
+    },
+    {
+        "lng": -0.27066,
+        "Town": "Acton",
+        "Population": 101586,
+        "County": "Greater London (Ealing)",
+        "lat": 51.51352
+    },
+    {
+        "lng": -0.35617,
+        "Town": "Ailsworth",
+        "Population": 38066,
+        "County": "Cambridgeshire",
+        "lat": 52.5729
+    },
+    {
+        "lng": -2.15963,
+        "Town": "Abbey Hey",
+        "Population": 125069,
+        "County": "Greater Manchester",
+        "lat": 53.46514
+    },
+    {
+        "lng": -2.86698,
+        "Town": "Aglionby",
+        "Population": 98845,
+        "County": "Cumbria",
+        "lat": 54.90013
+    },
+    {
+        "lng": -1.77946,
+        "Town": "Ablington",
+        "Population": 150735,
+        "County": "Wiltshire",
+        "lat": 51.21749
+    },
+    {
+        "lng": -4.43495,
+        "Town": "Achfrish",
+        "Population": 62055,
+        "County": "Highland",
+        "lat": 58.07824
+    },
+    {
+        "lng": -4.40358,
+        "Town": "Agneash",
+        "Population": 164297,
+        "County": "Isle of Man",
+        "lat": 54.25018
+    },
+    {
+        "lng": -2.17439,
+        "Town": "Adswood",
+        "Population": 45143,
+        "County": "Greater Manchester",
+        "lat": 53.39321
+    },
+    {
+        "lng": -6.56695,
+        "Town": "Acha MÃƒÂ²r",
+        "Population": 148674,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.16346
+    },
+    {
+        "lng": -2.54168,
+        "Town": "Admaston",
+        "Population": 92839,
+        "County": "Shropshire",
+        "lat": 52.70893
+    },
+    {
+        "lng": -2.75057,
+        "Town": "Alderton",
+        "Population": 144924,
+        "County": "Shropshire",
+        "lat": 52.80667
+    },
+    {
+        "lng": -5.38452,
+        "Town": "Achaleven",
+        "Population": 55089,
+        "County": "Argyll and Bute",
+        "lat": 56.44743
+    },
+    {
+        "lng": -3.70989,
+        "Town": "Aberangell",
+        "Population": 37381,
+        "County": "Gwynedd",
+        "lat": 52.67985
+    },
+    {
+        "lng": 0.8973,
+        "Town": "Abbey Field",
+        "Population": 22788,
+        "County": "Essex",
+        "lat": 51.88336
+    },
+    {
+        "lng": -5.1411,
+        "Town": "Achaphubuil",
+        "Population": 70474,
+        "County": "Highland",
+        "lat": 56.84037
+    },
+    {
+        "lng": -7.41312,
+        "Town": "Ãƒ€ird Mhidhinis",
+        "Population": 44320,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.00533
+    },
+    {
+        "lng": -3.80858,
+        "Town": "Aldclune",
+        "Population": 65025,
+        "County": "Perth and Kinross",
+        "lat": 56.74998
+    },
+    {
+        "lng": -4.38774,
+        "Town": "Abererch",
+        "Population": 133524,
+        "County": "Gwynedd",
+        "lat": 52.90191
+    },
+    {
+        "lng": -1.84925,
+        "Town": "Ablington",
+        "Population": 104295,
+        "County": "Gloucestershire",
+        "lat": 51.76608
+    },
+    {
+        "lng": -7.2728,
+        "Town": "Aghadrumsee",
+        "Population": 84563,
+        "County": "Fermanagh",
+        "lat": 54.2286
+    },
+    {
+        "lng": -2.08217,
+        "Town": "Alfred's Well",
+        "Population": 104756,
+        "County": "Worcestershire",
+        "lat": 52.35054
+    },
+    {
+        "lng": -3.27661,
+        "Town": "Aberbechan",
+        "Population": 81194,
+        "County": "Powys",
+        "lat": 52.53247
+    },
+    {
+        "lng": -3.6066,
+        "Town": "Addiewell",
+        "Population": 123386,
+        "County": "West Lothian",
+        "lat": 55.8452
+    },
+    {
+        "lng": -3.44155,
+        "Town": "Aberdare/Aberdar",
+        "Population": 27130,
+        "County": "Rhondda Cynon Taff",
+        "lat": 51.71238
+    },
+    {
+        "lng": -3.28619,
+        "Town": "Abbeytown",
+        "Population": 82389,
+        "County": "Cumbria",
+        "lat": 54.84249
+    },
+    {
+        "lng": -5.20408,
+        "Town": "Achanelid",
+        "Population": 80608,
+        "County": "Argyll and Bute",
+        "lat": 56.0387
+    },
+    {
+        "lng": -3.03591,
+        "Town": "Adsborough",
+        "Population": 163440,
+        "County": "Somerset",
+        "lat": 51.06024
+    },
+    {
+        "lng": -2.44719,
+        "Town": "Acton Green",
+        "Population": 99820,
+        "County": "Herefordshire",
+        "lat": 52.15193
+    },
+    {
+        "lng": -3.32677,
+        "Town": "Aifft",
+        "Population": 37004,
+        "County": "Denbighshire",
+        "lat": 53.21516
+    },
+    {
+        "lng": -2.66485,
+        "Town": "Abbeystead",
+        "Population": 46684,
+        "County": "Lancashire",
+        "lat": 53.98471
+    },
+    {
+        "lng": -0.36,
+        "Town": "Aldenham",
+        "Population": 147888,
+        "County": "Hertfordshire",
+        "lat": 51.67381
+    },
+    {
+        "lng": -0.62043,
+        "Town": "Airy Hill",
+        "Population": 54359,
+        "County": "North Yorkshire",
+        "lat": 54.47298
+    },
+    {
+        "lng": -0.14281,
+        "Town": "Abbotsford",
+        "Population": 25991,
+        "County": "West Sussex",
+        "lat": 50.96914
+    },
+    {
+        "lng": -2.72504,
+        "Town": "Ainstable",
+        "Population": 139055,
+        "County": "Cumbria",
+        "lat": 54.81119
+    },
+    {
+        "lng": 1.25937,
+        "Town": "Alby Hill",
+        "Population": 31200,
+        "County": "Norfolk",
+        "lat": 52.8632
+    },
+    {
+        "lng": -2.8595,
+        "Town": "Aberlady",
+        "Population": 29043,
+        "County": "East Lothian",
+        "lat": 56.00544
+    },
+    {
+        "lng": -1.38172,
+        "Town": "Alfreton",
+        "Population": 123564,
+        "County": "Derbyshire",
+        "lat": 53.0951
+    },
+    {
+        "lng": -2.20802,
+        "Town": "Alcester",
+        "Population": 43272,
+        "County": "Dorset",
+        "lat": 51.0017
+    },
+    {
+        "lng": 0.94743,
+        "Town": "Aldington",
+        "Population": 24239,
+        "County": "Kent",
+        "lat": 51.09062
+    },
+    {
+        "lng": -3.25663,
+        "Town": "Alfington",
+        "Population": 28716,
+        "County": "Devon",
+        "lat": 50.7793
+    },
+    {
+        "lng": 0.28172,
+        "Town": "Abbess End",
+        "Population": 49259,
+        "County": "Essex",
+        "lat": 51.78
+    },
+    {
+        "lng": -2.10312,
+        "Town": "Acomb",
+        "Population": 59478,
+        "County": "Northumberland",
+        "lat": 54.99304
+    },
+    {
+        "lng": -3.35671,
+        "Town": "Aberwheeler/Aberchwiler",
+        "Population": 156914,
+        "County": "Denbighshire",
+        "lat": 53.21482
+    },
+    {
+        "lng": 0.06938,
+        "Town": "Albury End",
+        "Population": 61744,
+        "County": "Hertfordshire",
+        "lat": 51.89184
+    },
+    {
+        "lng": 0.37315,
+        "Town": "Addington",
+        "Population": 100450,
+        "County": "Kent",
+        "lat": 51.31055
+    },
+    {
+        "lng": -1.05952,
+        "Town": "Abthorpe",
+        "Population": 56970,
+        "County": "Northamptonshire",
+        "lat": 52.11307
+    },
+    {
+        "lng": 0.1109,
+        "Town": "Abbey Wood",
+        "Population": 120933,
+        "County": "Greater London (Greenwich)",
+        "lat": 51.4864
+    },
+    {
+        "lng": -6.58795,
+        "Town": "Acha",
+        "Population": 161132,
+        "County": "Argyll and Bute",
+        "lat": 56.59761
+    },
+    {
+        "lng": -2.3565,
+        "Town": "Ainsworth",
+        "Population": 150398,
+        "County": "Greater Manchester",
+        "lat": 53.59055
+    },
+    {
+        "lng": -1.47241,
+        "Town": "Ainderby Quernhow",
+        "Population": 40526,
+        "County": "North Yorkshire",
+        "lat": 54.21907
+    },
+    {
+        "lng": -3.48273,
+        "Town": "Alcombe",
+        "Population": 72912,
+        "County": "Somerset",
+        "lat": 51.19931
+    },
+    {
+        "lng": -1.91985,
+        "Town": "Admaston",
+        "Population": 154420,
+        "County": "Staffordshire",
+        "lat": 52.80902
+    },
+    {
+        "lng": -3.43389,
+        "Town": "Aberthin",
+        "Population": 110862,
+        "County": "The Vale of Glamorgan",
+        "lat": 51.46969
+    },
+    {
+        "lng": -3.89776,
+        "Town": "Achiemore",
+        "Population": 111914,
+        "County": "Highland",
+        "lat": 58.50062
+    },
+    {
+        "lng": -5.80354,
+        "Town": "Acharacle/Ath-Tharracail",
+        "Population": 115615,
+        "County": "Highland",
+        "lat": 56.741
+    },
+    {
+        "lng": -6.23146,
+        "Town": "Adabroc",
+        "Population": 134527,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.48978
+    },
+    {
+        "lng": -3.13587,
+        "Town": "Abercarn",
+        "Population": 45793,
+        "County": "Caerphilly",
+        "lat": 51.6438
+    },
+    {
+        "lng": -3.15138,
+        "Town": "Aisholt",
+        "Population": 47478,
+        "County": "Somerset",
+        "lat": 51.11312
+    },
+    {
+        "lng": -6.76556,
+        "Town": "Ãƒ€ird a' Mhulaidh",
+        "Population": 112605,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.99426
+    },
+    {
+        "lng": -4.40187,
+        "Town": "Alcaig",
+        "Population": 71170,
+        "County": "Highland",
+        "lat": 57.58467
+    },
+    {
+        "lng": -5.48742,
+        "Town": "Achnacroish",
+        "Population": 110133,
+        "County": "Argyll and Bute",
+        "lat": 56.50751
+    },
+    {
+        "lng": -2.26203,
+        "Town": "Acton",
+        "Population": 100184,
+        "County": "Staffordshire",
+        "lat": 52.97057
+    },
+    {
+        "lng": -1.2946,
+        "Town": "Abbots Worthy",
+        "Population": 29077,
+        "County": "Hampshire",
+        "lat": 51.08968
+    },
+    {
+        "lng": -3.08134,
+        "Town": "Acrefair",
+        "Population": 40027,
+        "County": "Wrexham",
+        "lat": 52.98392
+    },
+    {
+        "lng": -5.96526,
+        "Town": "Aird/An Ãƒ€ird",
+        "Population": 75250,
+        "County": "Highland",
+        "lat": 57.03269
+    },
+    {
+        "lng": -0.27542,
+        "Town": "Alconbury Weston",
+        "Population": 22051,
+        "County": "Cambridgeshire",
+        "lat": 52.37395
+    },
+    {
+        "lng": -0.1099,
+        "Town": "Aldbrough",
+        "Population": 129145,
+        "County": "East Riding Of Yorkshire",
+        "lat": 53.82786
+    },
+    {
+        "lng": -1.20263,
+        "Town": "Aithsetter",
+        "Population": 34272,
+        "County": "Shetland Islands",
+        "lat": 60.05681
+    },
+    {
+        "lng": -2.56538,
+        "Town": "Alford",
+        "Population": 40018,
+        "County": "Somerset",
+        "lat": 51.09044
+    },
+    {
+        "lng": -4.99147,
+        "Town": "Achriesgill",
+        "Population": 90341,
+        "County": "Highland",
+        "lat": 58.44383
+    },
+    {
+        "lng": -1.13165,
+        "Town": "Aldermaston Wharf",
+        "Population": 97352,
+        "County": "Berkshire",
+        "lat": 51.40331
+    },
+    {
+        "lng": -2.92581,
+        "Town": "Aigburth",
+        "Population": 160650,
+        "County": "Merseyside",
+        "lat": 53.37176
+    },
+    {
+        "lng": -4.06179,
+        "Town": "Abergorlech",
+        "Population": 64078,
+        "County": "Carmarthenshire",
+        "lat": 51.98189
+    },
+    {
+        "lng": -0.26533,
+        "Town": "Acton Green",
+        "Population": 158419,
+        "County": "Greater London (Ealing)",
+        "lat": 51.5016
+    },
+    {
+        "lng": -3.56618,
+        "Town": "Abergarw",
+        "Population": 89688,
+        "County": "Bridgend",
+        "lat": 51.54893
+    },
+    {
+        "lng": -1.82741,
+        "Town": "Ainley Top",
+        "Population": 109724,
+        "County": "West Yorkshire",
+        "lat": 53.67185
+    },
+    {
+        "lng": -3.97713,
+        "Town": "Abbey Yard",
+        "Population": 97306,
+        "County": "Dumfries and Galloway",
+        "lat": 54.95903
+    },
+    {
+        "lng": -2.24381,
+        "Town": "Aggborough",
+        "Population": 139680,
+        "County": "Worcestershire",
+        "lat": 52.37729
+    },
+    {
+        "lng": -1.26986,
+        "Town": "Abshot",
+        "Population": 156881,
+        "County": "Hampshire",
+        "lat": 50.84674
+    },
+    {
+        "lng": -3.9089,
+        "Town": "Airthrey Castle",
+        "Population": 127454,
+        "County": "Stirling",
+        "lat": 56.14643
+    },
+    {
+        "lng": -2.37541,
+        "Town": "Abberley",
+        "Population": 116994,
+        "County": "Worcestershire",
+        "lat": 52.30502
+    },
+    {
+        "lng": -3.41177,
+        "Town": "Abercwmboi",
+        "Population": 120439,
+        "County": "Rhondda Cynon Taff",
+        "lat": 51.68576
+    },
+    {
+        "lng": -3.35177,
+        "Town": "Aberargie",
+        "Population": 70232,
+        "County": "Perth and Kinross",
+        "lat": 56.3245
+    },
+    {
+        "lng": -1.90653,
+        "Town": "Aldington",
+        "Population": 52746,
+        "County": "Worcestershire",
+        "lat": 52.0988
+    },
+    {
+        "lng": -0.99597,
+        "Town": "Adwell",
+        "Population": 121786,
+        "County": "Oxfordshire",
+        "lat": 51.68996
+    },
+    {
+        "lng": -0.09691,
+        "Town": "Abington Pigotts",
+        "Population": 135184,
+        "County": "Cambridgeshire",
+        "lat": 52.08348
+    },
+    {
+        "lng": -1.87701,
+        "Town": "Alcester",
+        "Population": 117777,
+        "County": "Warwickshire",
+        "lat": 52.21565
+    },
+    {
+        "lng": -2.22568,
+        "Town": "Affleck",
+        "Population": 73136,
+        "County": "Aberdeenshire",
+        "lat": 57.30189
+    },
+    {
+        "lng": -5.97293,
+        "Town": "Achnacloich/Ach na Cloiche",
+        "Population": 118880,
+        "County": "Highland",
+        "lat": 57.10438
+    },
+    {
+        "lng": -1.11797,
+        "Town": "Aldermaston Soke",
+        "Population": 125092,
+        "County": "Berkshire",
+        "lat": 51.36724
+    },
+    {
+        "lng": -5.77254,
+        "Town": "Airor",
+        "Population": 26042,
+        "County": "Highland",
+        "lat": 57.08361
+    },
+    {
+        "lng": -1.88728,
+        "Town": "Addingham Moorside",
+        "Population": 138235,
+        "County": "West Yorkshire",
+        "lat": 53.92358
+    },
+    {
+        "lng": -2.37434,
+        "Town": "Alfrick",
+        "Population": 128532,
+        "County": "Worcestershire",
+        "lat": 52.17916
+    },
+    {
+        "lng": -3.68723,
+        "Town": "Abington",
+        "Population": 38198,
+        "County": "South Lanarkshire",
+        "lat": 55.49365
+    },
+    {
+        "lng": -6.20819,
+        "Town": "Achachork",
+        "Population": 100166,
+        "County": "Highland",
+        "lat": 57.42943
+    },
+    {
+        "lng": -2.73726,
+        "Town": "Abbey Green",
+        "Population": 108104,
+        "County": "Shropshire",
+        "lat": 52.89665
+    },
+    {
+        "lng": -3.16277,
+        "Town": "Abbeyhill",
+        "Population": 117365,
+        "County": "City of Edinburgh",
+        "lat": 55.95803
+    },
+    {
+        "lng": -6.8449,
+        "Town": "Ãƒ€ird MhÃƒÂ¬ghe",
+        "Population": 67133,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.82933
+    },
+    {
+        "lng": -6.33187,
+        "Town": "Ãƒ€ird Dhail",
+        "Population": 162667,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.46843
+    },
+    {
+        "lng": -3.16612,
+        "Town": "Adscombe",
+        "Population": 51194,
+        "County": "Somerset",
+        "lat": 51.13096
+    },
+    {
+        "lng": -0.68242,
+        "Town": "Aislaby",
+        "Population": 109534,
+        "County": "North Yorkshire",
+        "lat": 54.46469
+    },
+    {
+        "lng": -1.77666,
+        "Town": "Aldsworth",
+        "Population": 157807,
+        "County": "Gloucestershire",
+        "lat": 51.79294
+    },
+    {
+        "lng": -1.19378,
+        "Town": "Adwick Le Street",
+        "Population": 158621,
+        "County": "South Yorkshire",
+        "lat": 53.5614
+    },
+    {
+        "lng": -1.64497,
+        "Town": "Adlestrop",
+        "Population": 144004,
+        "County": "Gloucestershire",
+        "lat": 51.94546
+    },
+    {
+        "lng": 0.79684,
+        "Town": "Aldham",
+        "Population": 162244,
+        "County": "Essex",
+        "lat": 51.90377
+    },
+    {
+        "lng": -4.32224,
+        "Town": "Airdens",
+        "Population": 59955,
+        "County": "Highland",
+        "lat": 57.90963
+    },
+    {
+        "lng": -2.27772,
+        "Town": "Affpuddle",
+        "Population": 32534,
+        "County": "Dorset",
+        "lat": 50.74078
+    },
+    {
+        "lng": -4.42491,
+        "Town": "Alfardisworthy",
+        "Population": 112110,
+        "County": "Devon",
+        "lat": 50.87778
+    },
+    {
+        "lng": -3.76432,
+        "Town": "Aberhosan",
+        "Population": 79662,
+        "County": "Powys",
+        "lat": 52.56217
+    },
+    {
+        "lng": -1.1012,
+        "Town": "Adbolton",
+        "Population": 27930,
+        "County": "Nottinghamshire",
+        "lat": 52.94049
+    },
+    {
+        "lng": -0.97377,
+        "Town": "Akeley",
+        "Population": 119674,
+        "County": "Buckinghamshire",
+        "lat": 52.03144
+    },
+    {
+        "lng": -2.71042,
+        "Town": "Albyfield",
+        "Population": 139705,
+        "County": "Cumbria",
+        "lat": 54.8652
+    },
+    {
+        "lng": -5.33568,
+        "Town": "Achmore",
+        "Population": 126739,
+        "County": "Highland",
+        "lat": 57.914
+    },
+    {
+        "lng": -0.40558,
+        "Town": "Abinger Common",
+        "Population": 67656,
+        "County": "Surrey",
+        "lat": 51.19785
+    },
+    {
+        "lng": -4.53644,
+        "Town": "Aberporth",
+        "Population": 32137,
+        "County": "Ceredigion",
+        "lat": 52.13449
+    },
+    {
+        "lng": -1.70879,
+        "Town": "Abney",
+        "Population": 112301,
+        "County": "Derbyshire",
+        "lat": 53.31208
+    },
+    {
+        "lng": 0.0991,
+        "Town": "Aldborough Hatch",
+        "Population": 141966,
+        "County": "Greater London (Redbridge)",
+        "lat": 51.5845
+    },
+    {
+        "lng": -2.50006,
+        "Town": "Adderley",
+        "Population": 163121,
+        "County": "Shropshire",
+        "lat": 52.95182
+    },
+    {
+        "lng": -0.70356,
+        "Town": "Aldwick",
+        "Population": 57425,
+        "County": "West Sussex",
+        "lat": 50.77887
+    },
+    {
+        "lng": -1.96484,
+        "Town": "Abbots Morton",
+        "Population": 94751,
+        "County": "Worcestershire",
+        "lat": 52.19773
+    },
+    {
+        "lng": -4.24677,
+        "Town": "Abbotsham",
+        "Population": 35589,
+        "County": "Devon",
+        "lat": 51.01625
+    },
+    {
+        "lng": -4.43292,
+        "Town": "Achnahuaigh",
+        "Population": 53329,
+        "County": "Highland",
+        "lat": 58.54549
+    },
+    {
+        "lng": -0.52355,
+        "Town": "Aldwincle",
+        "Population": 124806,
+        "County": "Northamptonshire",
+        "lat": 52.42226
+    },
+    {
+        "lng": 0.08432,
+        "Town": "Albury",
+        "Population": 34219,
+        "County": "Hertfordshire",
+        "lat": 51.90057
+    },
+    {
+        "lng": -0.18697,
+        "Town": "Abbots Ripton",
+        "Population": 47310,
+        "County": "Cambridgeshire",
+        "lat": 52.38162
+    },
+    {
+        "lng": -0.58305,
+        "Town": "Aisthorpe",
+        "Population": 168087,
+        "County": "Lincolnshire",
+        "lat": 53.31301
+    },
+    {
+        "lng": -2.83204,
+        "Town": "Aldon",
+        "Population": 132228,
+        "County": "Shropshire",
+        "lat": 52.41057
+    },
+    {
+        "lng": 0.90891,
+        "Town": "Abberton",
+        "Population": 165272,
+        "County": "Essex",
+        "lat": 51.8381
+    },
+    {
+        "lng": -2.00873,
+        "Town": "Abberton",
+        "Population": 74982,
+        "County": "Worcestershire",
+        "lat": 52.17975
+    },
+    {
+        "lng": -2.14652,
+        "Town": "Airton",
+        "Population": 118551,
+        "County": "North Yorkshire",
+        "lat": 54.0314
+    },
+    {
+        "lng": -1.93758,
+        "Town": "Alderney",
+        "Population": 64064,
+        "County": "Dorset",
+        "lat": 50.75008
+    },
+    {
+        "lng": -4.46,
+        "Town": "Addington",
+        "Population": 31717,
+        "County": "Cornwall",
+        "lat": 50.4633
+    },
+    {
+        "lng": -3.00945,
+        "Town": "Acton",
+        "Population": 123347,
+        "County": "Shropshire",
+        "lat": 52.45414
+    },
+    {
+        "lng": -3.6801,
+        "Town": "Abbotsleigh",
+        "Population": 25906,
+        "County": "Devon",
+        "lat": 50.32428
+    },
+    {
+        "lng": -3.85604,
+        "Town": "Achrimsdale",
+        "Population": 167462,
+        "County": "Highland",
+        "lat": 58.03409
+    },
+    {
+        "lng": -2.09959,
+        "Town": "Acre",
+        "Population": 77353,
+        "County": "Greater Manchester",
+        "lat": 53.55508
+    },
+    {
+        "lng": -3.25124,
+        "Town": "Abune-the-hill",
+        "Population": 59315,
+        "County": "Orkney Islands",
+        "lat": 59.13727
+    },
+    {
+        "lng": -2.77706,
+        "Town": "Aberlemno",
+        "Population": 109093,
+        "County": "Angus",
+        "lat": 56.68881
+    },
+    {
+        "lng": -2.42178,
+        "Town": "Abbas Combe",
+        "Population": 142567,
+        "County": "Somerset",
+        "lat": 51.00113
+    },
+    {
+        "lng": -0.54614,
+        "Town": "Aldgate",
+        "Population": 45274,
+        "County": "Rutland",
+        "lat": 52.62933
+    },
+    {
+        "lng": -0.19075,
+        "Town": "Aldrington",
+        "Population": 47825,
+        "County": "East Sussex",
+        "lat": 50.835
+    },
+    {
+        "lng": -3.21083,
+        "Town": "Abernyte",
+        "Population": 139971,
+        "County": "Perth and Kinross",
+        "lat": 56.46971
+    },
+    {
+        "lng": -0.41688,
+        "Town": "Abbots Langley",
+        "Population": 89397,
+        "County": "Hertfordshire",
+        "lat": 51.70157
+    },
+    {
+        "lng": -3.499,
+        "Town": "Aberdalgie",
+        "Population": 162869,
+        "County": "Perth and Kinross",
+        "lat": 56.36773
+    },
+    {
+        "lng": -2.47642,
+        "Town": "Acton Beauchamp",
+        "Population": 79799,
+        "County": "Herefordshire",
+        "lat": 52.15182
+    },
+    {
+        "lng": -3.5988,
+        "Town": "Abergwynfi",
+        "Population": 111830,
+        "County": "Neath Port Talbot",
+        "lat": 51.65639
+    },
+    {
+        "lng": -4.187,
+        "Town": "Achargary",
+        "Population": 141638,
+        "County": "Highland",
+        "lat": 58.46008
+    },
+    {
+        "lng": -1.53124,
+        "Town": "Alderwasley",
+        "Population": 27185,
+        "County": "Derbyshire",
+        "lat": 53.0778
+    },
+    {
+        "lng": 0.13565,
+        "Town": "Alciston",
+        "Population": 41229,
+        "County": "East Sussex",
+        "lat": 50.82948
+    },
+    {
+        "lng": -3.95959,
+        "Town": "Abergynolwyn",
+        "Population": 54628,
+        "County": "Gwynedd",
+        "lat": 52.64002
+    },
+    {
+        "lng": -4.27727,
+        "Town": "Airdtorrisdale",
+        "Population": 105138,
+        "County": "Highland",
+        "lat": 58.53038
+    },
+    {
+        "lng": -6.20922,
+        "Town": "Achtalean",
+        "Population": 42776,
+        "County": "Highland",
+        "lat": 57.43839
+    },
+    {
+        "lng": -1.54945,
+        "Town": "Albert Village",
+        "Population": 159895,
+        "County": "Leicestershire",
+        "lat": 52.76325
+    },
+    {
+        "lng": -2.94322,
+        "Town": "Aintree",
+        "Population": 117874,
+        "County": "Merseyside",
+        "lat": 53.4795
+    },
+    {
+        "lng": 1.6143,
+        "Town": "Aldeby",
+        "Population": 156375,
+        "County": "Norfolk",
+        "lat": 52.48414
+    },
+    {
+        "lng": -0.60188,
+        "Town": "Aldbury",
+        "Population": 101709,
+        "County": "Hertfordshire",
+        "lat": 51.80283
+    },
+    {
+        "lng": -3.6566,
+        "Town": "Abercregan",
+        "Population": 53766,
+        "County": "Neath Port Talbot",
+        "lat": 51.65559
+    },
+    {
+        "lng": -4.78428,
+        "Town": "Achluachrach",
+        "Population": 129541,
+        "County": "Highland",
+        "lat": 56.89378
+    },
+    {
+        "lng": -4.25109,
+        "Town": "Achddu",
+        "Population": 93658,
+        "County": "Carmarthenshire",
+        "lat": 51.69066
+    },
+    {
+        "lng": 0.31105,
+        "Town": "Addlethorpe",
+        "Population": 132864,
+        "County": "Lincolnshire",
+        "lat": 53.19115
+    },
+    {
+        "lng": -1.32772,
+        "Town": "Agar Nook",
+        "Population": 42585,
+        "County": "Leicestershire",
+        "lat": 52.72624
+    },
+    {
+        "lng": -0.49384,
+        "Town": "Achurch",
+        "Population": 126911,
+        "County": "Northamptonshire",
+        "lat": 52.43088
+    },
+    {
+        "lng": -3.13127,
+        "Town": "Aikton",
+        "Population": 71356,
+        "County": "Cumbria",
+        "lat": 54.87099
+    },
+    {
+        "lng": -4.22466,
+        "Town": "Achina",
+        "Population": 135177,
+        "County": "Highland",
+        "lat": 58.51334
+    },
+    {
+        "lng": -3.00118,
+        "Town": "Abbey Gate",
+        "Population": 21675,
+        "County": "Devon",
+        "lat": 50.77278
+    },
+    {
+        "lng": -1.12541,
+        "Town": "Acomb",
+        "Population": 92756,
+        "County": "North Yorkshire",
+        "lat": 53.94742
+    },
+    {
+        "lng": -3.30176,
+        "Town": "Aber Village",
+        "Population": 84914,
+        "County": "Powys",
+        "lat": 51.88485
+    },
+    {
+        "lng": -1.65808,
+        "Town": "Alderminster",
+        "Population": 46977,
+        "County": "Warwickshire",
+        "lat": 52.13431
+    },
+    {
+        "lng": -2.0388,
+        "Town": "Abbey Green",
+        "Population": 84481,
+        "County": "Staffordshire",
+        "lat": 53.11468
+    },
+    {
+        "lng": -2.60879,
+        "Town": "Acton Bridge",
+        "Population": 167745,
+        "County": "Cheshire",
+        "lat": 53.27493
+    },
+    {
+        "lng": -6.383,
+        "Town": "Aghacommon",
+        "Population": 161925,
+        "County": "Armagh",
+        "lat": 54.468
+    },
+    {
+        "lng": -0.0777,
+        "Town": "Aldgate",
+        "Population": 141064,
+        "County": "Greater London (City of London)",
+        "lat": 51.5132
+    },
+    {
+        "lng": -4.01652,
+        "Town": "Abergwyngregyn",
+        "Population": 67880,
+        "County": "Gwynedd",
+        "lat": 53.23245
+    },
+    {
+        "lng": -0.46935,
+        "Town": "Adversane",
+        "Population": 97482,
+        "County": "West Sussex",
+        "lat": 51.00086
+    },
+    {
+        "lng": -2.57831,
+        "Town": "Adber",
+        "Population": 102055,
+        "County": "Dorset",
+        "lat": 50.98247
+    },
+    {
+        "lng": -3.47842,
+        "Town": "Aberbran",
+        "Population": 122682,
+        "County": "Powys",
+        "lat": 51.95469
+    },
+    {
+        "lng": -0.0305,
+        "Town": "Addington",
+        "Population": 31771,
+        "County": "Greater London (Croydon)",
+        "lat": 51.3583
+    },
+    {
+        "lng": -4.05707,
+        "Town": "Aberlerry",
+        "Population": 160066,
+        "County": "Ceredigion",
+        "lat": 52.51249
+    },
+    {
+        "lng": -5.56618,
+        "Town": "Achmore",
+        "Population": 46061,
+        "County": "Highland",
+        "lat": 57.34138
+    },
+    {
+        "lng": -0.4913,
+        "Town": "Aisby",
+        "Population": 95021,
+        "County": "Lincolnshire",
+        "lat": 52.93431
+    },
+    {
+        "lng": -2.93636,
+        "Town": "Aberffrwd",
+        "Population": 121981,
+        "County": "Monmouthshire",
+        "lat": 51.78043
+    },
+    {
+        "lng": -7.4036,
+        "Town": "Ãƒ€ird Choinnich",
+        "Population": 157582,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.39272
+    },
+    {
+        "lng": -1.70203,
+        "Town": "Admington",
+        "Population": 41709,
+        "County": "Warwickshire",
+        "lat": 52.11644
+    },
+    {
+        "lng": -6.27113,
+        "Town": "Aghalee",
+        "Population": 144413,
+        "County": "Antrim",
+        "lat": 54.52024
+    },
+    {
+        "lng": -1.14636,
+        "Town": "Aldermaston",
+        "Population": 102999,
+        "County": "Berkshire",
+        "lat": 51.38544
+    },
+    {
+        "lng": -0.52348,
+        "Town": "Alfold Bars",
+        "Population": 142413,
+        "County": "West Sussex",
+        "lat": 51.09148
+    },
+    {
+        "lng": -2.09777,
+        "Town": "Acton Trussell",
+        "Population": 111839,
+        "County": "Staffordshire",
+        "lat": 52.76406
+    },
+    {
+        "lng": -3.02433,
+        "Town": "Abergavenny/Y Fenni",
+        "Population": 134864,
+        "County": "Monmouthshire",
+        "lat": 51.82465
+    },
+    {
+        "lng": -6.32147,
+        "Town": "Ãƒ€ird Thunga",
+        "Population": 84573,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 58.24397
+    },
+    {
+        "lng": -2.76077,
+        "Town": "Ackenthwaite",
+        "Population": 136773,
+        "County": "Cumbria",
+        "lat": 54.22681
+    },
+    {
+        "lng": -6.24306,
+        "Town": "Aldergrove",
+        "Population": 117363,
+        "County": "Antrim",
+        "lat": 54.64472
+    },
+    {
+        "lng": -1.38228,
+        "Town": "Aldborough",
+        "Population": 139063,
+        "County": "North Yorkshire",
+        "lat": 54.09282
+    },
+    {
+        "lng": -2.60274,
+        "Town": "Abbotsbury",
+        "Population": 103680,
+        "County": "Dorset",
+        "lat": 50.66761
+    },
+    {
+        "lng": 0.51599,
+        "Town": "Abbey Gate",
+        "Population": 41363,
+        "County": "Kent",
+        "lat": 51.29857
+    },
+    {
+        "lng": -3.94762,
+        "Town": "Abronhill",
+        "Population": 95474,
+        "County": "North Lanarkshire",
+        "lat": 55.9571
+    },
+    {
+        "lng": -3.22402,
+        "Town": "Aberbargoed/Aberbargod",
+        "Population": 20532,
+        "County": "Caerphilly",
+        "lat": 51.69686
+    },
+    {
+        "lng": -0.49988,
+        "Town": "Addlestonemoor",
+        "Population": 160906,
+        "County": "Surrey",
+        "lat": 51.37894
+    },
+    {
+        "lng": -5.0707,
+        "Town": "Achnasheen/Achadh na Sine",
+        "Population": 66540,
+        "County": "Highland",
+        "lat": 57.57916
+    },
+    {
+        "lng": -5.30828,
+        "Town": "Achmelvich",
+        "Population": 140821,
+        "County": "Highland",
+        "lat": 58.16639
+    },
+    {
+        "lng": -3.06778,
+        "Town": "Aber-oer",
+        "Population": 169047,
+        "County": "Wrexham",
+        "lat": 53.03798
+    },
+    {
+        "lng": -1.61981,
+        "Town": "Aldbourne",
+        "Population": 97752,
+        "County": "Wiltshire",
+        "lat": 51.47784
+    },
+    {
+        "lng": -2.37427,
+        "Town": "Alfrick Pound",
+        "Population": 106916,
+        "County": "Worcestershire",
+        "lat": 52.17017
+    }
+]
