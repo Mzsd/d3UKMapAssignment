@@ -12,18 +12,14 @@ var projection = d3.geo .albers()
                         .translate([width / 2, height / 2]);
 
 var jsonFeedURI = "http://34.38.72.236/Circles/Towns/100"
-// console.log(jsonFeedURI.split("/").slice(0, -1).join("/"))
 
 var slider = document.getElementById('fader');
 
-slider.oninput = function ()  {
-    jsonFeedURI = jsonFeedURI.split("/").slice(0, -1).join("/") + "/" + document.getElementById("fader").value
-    svg.selectAll('text').remove()
-    svg.selectAll('circle').remove()
-    loadTowns(jsonFeedURI)
-};
+var btn = document.getElementById("btn");
 
-// function drawMap()  {
+btn.onclick = function () {reload()};
+
+slider.oninput = function () {reload()};
 
 // Drawing the map
 d3.json("json_data/ne_10m_admin_0_map_subunits.json", function(error, uk) {
@@ -48,10 +44,9 @@ d3.json("json_data/ne_10m_admin_0_map_subunits.json", function(error, uk) {
 });
 
 loadTowns(jsonFeedURI);
-// }
 
 function loadTowns(url)    {
-    d3.json(url, function(error, data) {
+    d3.json(url, function(e, data) {
 
         // Placing the cities
         svg.selectAll('.cityname')
@@ -150,15 +145,9 @@ function toolTip()  {
 
 }
 
-function outputUpdate(tns) {
-	document.getElementById('numtowns').value = tns;
-}
-
-btn.addEventListener("click", function()    {
-    jsonFeedURI = jsonFeedURI.split("/").slice(0, -1).join("/") + "/" + document.getElementById("fader").value
-    console.log(jsonFeedURI)
+function reload() {
+	jsonFeedURI = jsonFeedURI.split("/").slice(0, -1).join("/") + "/" + document.getElementById("fader").value
     svg.selectAll('text').remove()
     svg.selectAll('circle').remove()
-    // drawMap()
     loadTowns(jsonFeedURI)
-});
+}
